@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ThunderX
+.thx_temp/
+*.thx
+*.thx.meta
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# === git.xen base ignore ===
+.venv/
+venv/
+node_modules/
+.next/
+__pycache__/
+*.py[cod]
+dist/
+build/
+target/
+*.exe
+*.dll
+*.zip
+*.7z
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
